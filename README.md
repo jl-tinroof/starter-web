@@ -17,3 +17,7 @@ Deployment info
 ## How To Contribute
 
 Contribution info
+
+### Copyright
+
+2020 Git.Training
