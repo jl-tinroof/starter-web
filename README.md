@@ -16,7 +16,7 @@ Deployment info
 
 ## How To Contribute
 
-Contribution info
+Contribution info. More info
 
 ### Copyright
 
