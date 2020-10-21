@@ -12,4 +12,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+Deployment info
+
 ## How To Contribute
+
+Contribution info
